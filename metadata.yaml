@@ -1,5 +1,8 @@
 _repo: The-Mystery-of-Edwin-Drood_564
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -16,6 +19,8 @@ description: When young Edwin Drood mysteriously disappears from the quiet cathe
   humorous atmosphere and the many colorful characters in this unusual crime novel.
   Dickens' entertaining story is even more of a mystery than he intended, for he died
   before the work was completed.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/564#The-Mystery-of-Edwin-Drood
 gutenberg_bookshelf: Mystery Fiction
 gutenberg_issued: '1996-06-01'
 gutenberg_type: Text
